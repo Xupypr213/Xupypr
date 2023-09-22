@@ -1,0 +1,76 @@
+.test{
+    color: black
+}
+h1{
+    color: rgb(0, 0, 0);
+}
+
+
+#unic{
+    font-size: large;
+    color: rgb(255, 0, 0);
+
+}
+ol li {
+    font-weight: 300;
+    list-style-type: circle;
+
+}
+
+nav > ol {
+    background-color: rgb(27, 70, 201);
+    border-radius: 10px;
+    color: aliceblue;
+    width: 1000px;
+}
+
+a{
+    color: rgb(41, 52, 196);
+}
+a:hover{
+    color: blue;
+}
+
+nav:hover{
+    background-color: brown;
+    width: 1050px;
+    border-radius: 10px;
+}
+
+li:first-child {
+    font-weight: bold;
+    color: rgb(255, 46, 46)
+}
+
+.kubick{
+    width: 250px;
+    height: 250px;
+    background-color: rgb(249, 203, 135);
+    color: aliceblue;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.corzina{
+    width: 250px;
+    height: 250px;
+    background-color: rgb(115, 29, 35);
+    border-radius: 20px;
+    margin-top: 4%;
+    padding-top: 1%;
+    padding-left: 4%;
+}
+
+.content-container{
+    background-color: honeydew;
+    border-radius: 2%;
+    padding: 5% 1%;
+    margin-top: 3%;
+}
+
+.section{
+    border: solid 1px #311a51;
+    border-radius: 5px;
+    margin-top: 1%;
+    padding-left: 1%;
+}
